@@ -29,8 +29,9 @@ Thanks goes to these wonderful dev ❤️ :
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/5636480?s=460&v=4" width="100px;"/><br /><sub><b>Eka Syahwan</b></sub>](https://github.com/radenvodka)<br /> sdata author (PHP cURL multi-threading)
-|<br/> <sub><b>meetdani</b></sub>](https://github.com/meetdani)<br /> Original Author
+[<img src="https://avatars3.githubusercontent.com/u/5636480?s=460&v=4" width="100px;"/><br /><sub><b>Eka Syahwan</b></sub>](https://github.com/radenvodka)<br /> sdata author (PHP cURL multi-threading)<br />
+[<img src="https://avatars0.githubusercontent.com/u/16760091?s=460&v=4" width="100px;"/><br /><sub><b>meetdani</b></sub>](https://github.com/meetdani)<br /> Original Author
+
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
